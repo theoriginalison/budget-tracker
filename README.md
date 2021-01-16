@@ -20,9 +20,7 @@ Install npm packages as usual, and all dependencies.
 After installing all depenencies, start the server. Then, open the app in your browser. Download the app, and start budgeting. Even if you're offline, transactions will be held until you're back online, then added to the tracker.
 
 ## Screeshots
-![Screenshot of adding exercise](./public/assets/readMeImages/add-exercise.png)
-![Screenshot of the last workout completed, which is also the start page](./public/assets/readMeImages/last-workout.png)
-![Screenshot of dashboard with workout data](./public/assets/readMeImages/dashboard.png)
+![Screenshot of tracked expenses](./public/assets/tracked-budget.png)
 
 ## License
 MIT License
